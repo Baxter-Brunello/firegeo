@@ -455,3 +455,22 @@
 
 /* Shadows */
 .shadow-orange-500\/50 { --tw-shadow-color: rgba(0, 161, 179, 0.5) !important; }
+
+/* Gradients with opacity */
+.from-orange-400\/90 { --tw-gradient-from: rgb(38 195 207 / 0.9) !important; }
+.via-orange-500\/90  { --tw-gradient-via: rgb(0 161 179 / 0.9) !important; }
+.to-orange-600\/90   { --tw-gradient-to: rgb(0 139 154 / 0.9) !important; }
+
+.from-orange-400\/80 { --tw-gradient-from: rgb(38 195 207 / 0.8) !important; }
+.via-orange-500\/80  { --tw-gradient-via: rgb(0 161 179 / 0.8) !important; }
+.to-orange-600\/80   { --tw-gradient-to: rgb(0 139 154 / 0.8) !important; }
+
+.shadow-orange-500\/90 { --tw-shadow-color: rgb(0 161 179 / 0.9) !important; }
+.shadow-orange-500\/80 { --tw-shadow-color: rgb(0 161 179 / 0.8) !important; }
+.shadow-orange-500\/70 { --tw-shadow-color: rgb(0 161 179 / 0.7) !important; }
+.shadow-orange-500\/60 { --tw-shadow-color: rgb(0 161 179 / 0.6) !important; }
+.shadow-orange-500\/50 { --tw-shadow-color: rgb(0 161 179 / 0.5) !important; }
+.shadow-orange-500\/40 { --tw-shadow-color: rgb(0 161 179 / 0.4) !important; }
+.shadow-orange-500\/30 { --tw-shadow-color: rgb(0 161 179 / 0.3) !important; }
+.shadow-orange-500\/20 { --tw-shadow-color: rgb(0 161 179 / 0.2) !important; }
+.shadow-orange-500\/10 { --tw-shadow-color: rgb(0 161 179 / 0.1) !important; }
