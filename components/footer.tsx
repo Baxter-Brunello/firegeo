@@ -10,7 +10,7 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="mb-4">
               <Image
-                src="/firecrawl-logo-with-fire.webp"
+                src="/Revscale-Logo-2025-R-Mark-Dark.png"
                 alt="Firecrawl"
                 width={120}
                 height={25}

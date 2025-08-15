@@ -104,7 +104,7 @@ export default function ForgotPasswordPage() {
           <div>
             <div className="lg:hidden mb-8 flex justify-center">
               <Image
-                src="/firecrawl-logo-with-fire.webp"
+                src="/Revscale-Logo-2025-R-Mark-Dark.png"
                 alt="Firecrawl"
                 width={180}
                 height={37}
