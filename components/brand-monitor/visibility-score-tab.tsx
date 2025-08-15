@@ -48,8 +48,8 @@ export function VisibilityScoreTab({
                   <PieChart>
                     <defs>
                       <linearGradient id="orangeGradient" x1="0" y1="0" x2="1" y2="1">
-                        <stop offset="0%" stopColor="#fb923c" />
-                        <stop offset="100%" stopColor="#ea580c" />
+                        <stop offset="0%" stopColor="#00A1B3" />
+                        <stop offset="100%" stopColor="#0c88ea94" />
                       </linearGradient>
                       <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
                         <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
@@ -85,7 +85,7 @@ export function VisibilityScoreTab({
                           key={`cell-${idx}`} 
                           fill={competitor.isOwn ? 'url(#orangeGradient)' : 
                             ['#3b82f6', '#8b5cf6', '#ec4899', '#10b981', '#f59e0b', '#6366f1', '#14b8a6', '#f43f5e'][idx % 8]}
-                          stroke={competitor.isOwn ? '#ea580c' : 'none'}
+                          stroke={competitor.isOwn ? '#0c88ea94' : 'none'}
                           strokeWidth={competitor.isOwn ? 2 : 0}
                         />
                       ))}
@@ -128,7 +128,7 @@ export function VisibilityScoreTab({
                 const faviconUrl = competitorData?.url ? 
                   `https://www.google.com/s2/favicons?domain=${competitorData.url}&sz=64` : null;
                 
-                const color = competitor.isOwn ? '#ea580c' : 
+                const color = competitor.isOwn ? '#0c88ea94' : 
                   ['#3b82f6', '#8b5cf6', '#ec4899', '#10b981', '#f59e0b', '#6366f1', '#14b8a6', '#f43f5e'][idx % 8];
                 
                 return (
