@@ -474,3 +474,13 @@
 .shadow-orange-500\/30 { --tw-shadow-color: rgb(0 161 179 / 0.3) !important; }
 .shadow-orange-500\/20 { --tw-shadow-color: rgb(0 161 179 / 0.2) !important; }
 .shadow-orange-500\/10 { --tw-shadow-color: rgb(0 161 179 / 0.1) !important; }
+
+/* Force focus ring to teal */
+.focus\:ring-orange-500 {
+  --tw-ring-color: #00A1B3 !important;
+}
+
+/* Force focus border to teal */
+.focus\:border-orange-500 {
+  border-color: #00A1B3 !important;
+}
