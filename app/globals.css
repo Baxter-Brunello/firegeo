@@ -380,3 +380,39 @@
   transform: translateY(2px) scale(0.97) !important;
   box-shadow: inset 0px 1px 1px 0px #18181b, 0px 1px 2px 0px rgba(24, 24, 27, 30%) !important;
 }
+
+/* Override all Tailwind orange shades with teal equivalents */
+.bg-orange-50    { background-color: #E0F8FA !important; }
+.bg-orange-100   { background-color: #B3ECF0 !important; }
+.bg-orange-200   { background-color: #80DEE6 !important; }
+.bg-orange-300   { background-color: #4DCFD9 !important; }
+.bg-orange-400   { background-color: #26C3CF !important; }
+.bg-orange-500   { background-color: #00A1B3 !important; }
+.bg-orange-600   { background-color: #008B9A !important; }
+.bg-orange-700   { background-color: #006E7B !important; }
+.bg-orange-800   { background-color: #004E55 !important; }
+.bg-orange-900   { background-color: #00363B !important; }
+
+/* Optional: also override text colors */
+.text-orange-50    { color: #E0F8FA !important; }
+.text-orange-100   { color: #B3ECF0 !important; }
+.text-orange-200   { color: #80DEE6 !important; }
+.text-orange-300   { color: #4DCFD9 !important; }
+.text-orange-400   { color: #26C3CF !important; }
+.text-orange-500   { color: #00A1B3 !important; }
+.text-orange-600   { color: #008B9A !important; }
+.text-orange-700   { color: #006E7B !important; }
+.text-orange-800   { color: #004E55 !important; }
+.text-orange-900   { color: #00363B !important; }
+
+/* Optional: also override border colors */
+.border-orange-50    { border-color: #E0F8FA !important; }
+.border-orange-100   { border-color: #B3ECF0 !important; }
+.border-orange-200   { border-color: #80DEE6 !important; }
+.border-orange-300   { border-color: #4DCFD9 !important; }
+.border-orange-400   { border-color: #26C3CF !important; }
+.border-orange-500   { border-color: #00A1B3 !important; }
+.border-orange-600   { border-color: #008B9A !important; }
+.border-orange-700   { border-color: #006E7B !important; }
+.border-orange-800   { border-color: #004E55 !important; }
+.border-orange-900   { border-color: #00363B !important; }
