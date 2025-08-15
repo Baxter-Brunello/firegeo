@@ -416,3 +416,27 @@
 .border-orange-700   { border-color: #006E7B !important; }
 .border-orange-800   { border-color: #004E55 !important; }
 .border-orange-900   { border-color: #00363B !important; }
+
+/* Gradient start colors */
+.from-orange-50    { --tw-gradient-from: #E0F8FA !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(224 248 250 / 0)); }
+.from-orange-100   { --tw-gradient-from: #B3ECF0 !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(179 236 240 / 0)); }
+.from-orange-200   { --tw-gradient-from: #80DEE6 !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(128 222 230 / 0)); }
+.from-orange-300   { --tw-gradient-from: #4DCFD9 !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(77 207 217 / 0)); }
+.from-orange-400   { --tw-gradient-from: #26C3CF !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(38 195 207 / 0)); }
+.from-orange-500   { --tw-gradient-from: #00A1B3 !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 161 179 / 0)); }
+.from-orange-600   { --tw-gradient-from: #008B9A !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 139 154 / 0)); }
+.from-orange-700   { --tw-gradient-from: #006E7B !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 110 123 / 0)); }
+.from-orange-800   { --tw-gradient-from: #004E55 !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 78 85 / 0)); }
+.from-orange-900   { --tw-gradient-from: #00363B !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 54 59 / 0)); }
+
+/* Gradient end colors */
+.to-orange-50    { --tw-gradient-to: #E0F8FA !important; }
+.to-orange-100   { --tw-gradient-to: #B3ECF0 !important; }
+.to-orange-200   { --tw-gradient-to: #80DEE6 !important; }
+.to-orange-300   { --tw-gradient-to: #4DCFD9 !important; }
+.to-orange-400   { --tw-gradient-to: #26C3CF !important; }
+.to-orange-500   { --tw-gradient-to: #00A1B3 !important; }
+.to-orange-600   { --tw-gradient-to: #008B9A !important; }
+.to-orange-700   { --tw-gradient-to: #006E7B !important; }
+.to-orange-800   { --tw-gradient-to: #004E55 !important; }
+.to-orange-900   { --tw-gradient-to: #00363B !important; }
