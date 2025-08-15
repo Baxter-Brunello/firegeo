@@ -440,3 +440,18 @@
 .to-orange-700   { --tw-gradient-to: #006E7B !important; }
 .to-orange-800   { --tw-gradient-to: #004E55 !important; }
 .to-orange-900   { --tw-gradient-to: #00363B !important; }
+
+/* Rings / Focus outlines */
+.ring-orange-50    { --tw-ring-color: #E0F8FA !important; }
+.ring-orange-100   { --tw-ring-color: #B3ECF0 !important; }
+.ring-orange-200   { --tw-ring-color: #80DEE6 !important; }
+.ring-orange-300   { --tw-ring-color: #4DCFD9 !important; }
+.ring-orange-400   { --tw-ring-color: #26C3CF !important; }
+.ring-orange-500   { --tw-ring-color: #00A1B3 !important; }
+.ring-orange-600   { --tw-ring-color: #008B9A !important; }
+.ring-orange-700   { --tw-ring-color: #006E7B !important; }
+.ring-orange-800   { --tw-ring-color: #004E55 !important; }
+.ring-orange-900   { --tw-ring-color: #00363B !important; }
+
+/* Shadows */
+.shadow-orange-500\/50 { --tw-shadow-color: rgba(0, 161, 179, 0.5) !important; }
