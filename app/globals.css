@@ -138,18 +138,18 @@
 }
 
 .btn-firecrawl-orange {
-  background-color: #f97316;
+  background-color: #00A1B3;
   color: white;
-  box-shadow: inset 0px -2px 0px 0px #c2410c, 0px 1px 6px 0px rgba(234, 88, 12, 58%);
+  box-shadow: inset 0px -2px 0px 0px #53A669, 0px 1px 6px 0px rgba(234, 88, 12, 58%);
 }
 .btn-firecrawl-orange:hover {
-  background-color: #ea580c;
+  background-color: #00A1B3;
   transform: translateY(1px) scale(0.98);
-  box-shadow: inset 0px -1px 0px 0px #c2410c, 0px 1px 3px 0px rgba(234, 88, 12, 40%);
+  box-shadow: inset 0px -1px 0px 0px #53A669, 0px 1px 3px 0px rgba(234, 88, 12, 40%);
 }
 .btn-firecrawl-orange:active {
   transform: translateY(2px) scale(0.97);
-  box-shadow: inset 0px 1px 1px 0px #c2410c, 0px 1px 2px 0px rgba(234, 88, 12, 30%);
+  box-shadow: inset 0px 1px 1px 0px #53A669, 0px 1px 2px 0px rgba(234, 88, 12, 30%);
 }
 
 .btn-firecrawl-outline {
@@ -348,20 +348,20 @@
 }
 
 .autumn-pricing-table button[data-primary="true"] {
-  background-color: #f97316 !important;
+  background-color: #00A1B3 !important;
   color: white !important;
-  box-shadow: inset 0px -2px 0px 0px #c2410c, 0px 1px 6px 0px rgba(234, 88, 12, 58%) !important;
+  box-shadow: inset 0px -2px 0px 0px #53A669, 0px 1px 6px 0px rgba(234, 88, 12, 58%) !important;
 }
 
 .autumn-pricing-table button[data-primary="true"]:hover {
-  background-color: #ea580c !important;
+  background-color: #00A1B3 !important;
   transform: translateY(1px) scale(0.98) !important;
-  box-shadow: inset 0px -1px 0px 0px #c2410c, 0px 1px 3px 0px rgba(234, 88, 12, 40%) !important;
+  box-shadow: inset 0px -1px 0px 0px #53A669, 0px 1px 3px 0px rgba(234, 88, 12, 40%) !important;
 }
 
 .autumn-pricing-table button[data-primary="true"]:active {
   transform: translateY(2px) scale(0.97) !important;
-  box-shadow: inset 0px 1px 1px 0px #c2410c, 0px 1px 2px 0px rgba(234, 88, 12, 30%) !important;
+  box-shadow: inset 0px 1px 1px 0px #53A669, 0px 1px 2px 0px rgba(234, 88, 12, 30%) !important;
 }
 
 .autumn-pricing-table button:not([data-primary="true"]) {
