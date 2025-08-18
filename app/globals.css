@@ -484,3 +484,78 @@
 .focus\:border-orange-500 {
   border-color: #00A1B3 !important;
 }
+
+/* === RED → TEAL (Darker end of palette) === */
+
+/* Backgrounds */
+.bg-red-50    { background-color: #E0F8FA !important; }
+.bg-red-100   { background-color: #B3ECF0 !important; }
+.bg-red-200   { background-color: #80DEE6 !important; }
+.bg-red-300   { background-color: #4DCFD9 !important; }
+.bg-red-400   { background-color: #26C3CF !important; }
+.bg-red-500   { background-color: #00A1B3 !important; }
+.bg-red-600   { background-color: #008B9A !important; }
+.bg-red-700   { background-color: #006E7B !important; }
+.bg-red-800   { background-color: #004E55 !important; }
+.bg-red-900   { background-color: #00363B !important; }
+
+/* Text */
+.text-red-50    { color: #E0F8FA !important; }
+.text-red-100   { color: #B3ECF0 !important; }
+.text-red-200   { color: #80DEE6 !important; }
+.text-red-300   { color: #4DCFD9 !important; }
+.text-red-400   { color: #26C3CF !important; }
+.text-red-500   { color: #00A1B3 !important; }
+.text-red-600   { color: #008B9A !important; }
+.text-red-700   { color: #006E7B !important; }
+.text-red-800   { color: #004E55 !important; }
+.text-red-900   { color: #00363B !important; }
+
+/* Borders */
+.border-red-* { border-color: currentColor !important; } /* fallback */
+.border-red-500 { border-color: #00A1B3 !important; }
+.border-red-600 { border-color: #008B9A !important; }
+
+/* Gradients */
+.from-red-500 { --tw-gradient-from: #00A1B3 !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(0 161 179 / 0)); }
+.via-red-600  { --tw-gradient-via: #008B9A !important; }
+.to-red-700   { --tw-gradient-to: #006E7B !important; }
+
+/* Focus states */
+.focus\:ring-red-500 { --tw-ring-color: #00A1B3 !important; }
+.focus\:border-red-500 { border-color: #00A1B3 !important; }
+
+/* Shadows */
+.shadow-red-500\/50 { --tw-shadow-color: rgba(0, 161, 179, 0.5) !important; }
+
+/* === YELLOW → TEAL (Lighter end of palette) === */
+
+/* Backgrounds */
+.bg-yellow-50    { background-color: #E0F8FA !important; }
+.bg-yellow-100   { background-color: #B3ECF0 !important; }
+.bg-yellow-200   { background-color: #80DEE6 !important; }
+.bg-yellow-300   { background-color: #4DCFD9 !important; }
+.bg-yellow-400   { background-color: #26C3CF !important; }
+.bg-yellow-500   { background-color: #26C3CF !important; } /* map to lighter teal */
+.bg-yellow-600   { background-color: #00A1B3 !important; }
+.bg-yellow-700   { background-color: #008B9A !important; }
+.bg-yellow-800   { background-color: #006E7B !important; }
+.bg-yellow-900   { background-color: #004E55 !important; }
+
+/* Text */
+.text-yellow-500 { color: #26C3CF !important; }
+
+/* Borders */
+.border-yellow-500 { border-color: #26C3CF !important; }
+
+/* Gradients */
+.from-yellow-500 { --tw-gradient-from: #26C3CF !important; --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(38 195 207 / 0)); }
+.via-yellow-500  { --tw-gradient-via: #26C3CF !important; }
+.to-yellow-500   { --tw-gradient-to: #26C3CF !important; }
+
+/* Focus states */
+.focus\:ring-yellow-500 { --tw-ring-color: #26C3CF !important; }
+.focus\:border-yellow-500 { border-color: #26C3CF !important; }
+
+/* Shadows */
+.shadow-yellow-500\/50 { --tw-shadow-color: rgba(38, 195, 207, 0.5) !important; }
