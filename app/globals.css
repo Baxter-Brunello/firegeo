@@ -140,16 +140,24 @@
 .btn-firecrawl-orange {
   background-color: #00A1B3;
   color: white;
-  box-shadow: inset 0px -2px 0px 0px #53A669, 0px 1px 6px 0px rgba(234, 88, 12, 58%);
+  box-shadow: 
+    inset 0px -2px 0px 0px #53A669, 
+    0px 1px 6px 0px rgba(0, 161, 179, 0.58); /* teal glow */
 }
+
 .btn-firecrawl-orange:hover {
   background-color: #00A1B3;
   transform: translateY(1px) scale(0.98);
-  box-shadow: inset 0px -1px 0px 0px #53A669, 0px 1px 3px 0px rgba(234, 88, 12, 40%);
+  box-shadow: 
+    inset 0px -1px 0px 0px #53A669, 
+    0px 1px 3px 0px rgba(0, 161, 179, 0.40); /* teal glow */
 }
+
 .btn-firecrawl-orange:active {
   transform: translateY(2px) scale(0.97);
-  box-shadow: inset 0px 1px 1px 0px #53A669, 0px 1px 2px 0px rgba(234, 88, 12, 30%);
+  box-shadow: 
+    inset 0px 1px 1px 0px #53A669, 
+    0px 1px 2px 0px rgba(0, 161, 179, 0.30); /* teal glow */
 }
 
 .btn-firecrawl-outline {
